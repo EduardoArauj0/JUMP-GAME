@@ -6,6 +6,8 @@ Este é um jogo simples, onde o jogador deve pular para evitar os obstáculos.
 - O personagem pula ao pressionar qualquer tecla.
 - Obstáculos se movem continuamente para desafiar o jogador.
 - O jogo detecta colisões e exibe a tela de game over.
+- Sistema de pontuação.
+- Botão de reset para reiniciar a partida.
 
 ## 🛠 Tecnologias Utilizadas
 - HTML
